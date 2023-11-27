@@ -1,0 +1,21 @@
+{ "name": "nodemcu-wifigpio-tutorial-pmb",
+  "version": "0.0.1",
+  "description": "A tutorial for how to set up simple WiFi-controlled GPIO on your ESP8266.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/nodemcu-wifigpio-tutorial-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/nodemcu-wifigpio-tutorial-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/nodemcu-wifigpio-tutorial-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+  "engines": {}
+}
